@@ -11,7 +11,7 @@ Coding - Python, JS and Ruby
 
 If you want a full cover of my skills and certifications check out my resume below!
 
-[![resume](https://img.shields.io/badge/Resume-black)](https://docs.google.com/document/d/1SE13CTZAWYmCAzjuavufT4eimBCIkN6Awf5yNyuFavc/edit?usp=drive_link)
+[![resume](https://img.shields.io/badge/Resume-black)](https://docs.google.com/document/d/1SE13CTZAWYmCAzjuavufT4eimBCIkN6Awf5yNyuFavc/edit?usp=sharing)
 
 ## 🔗 Links
 [![tryhackme](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/GuardiaN)
