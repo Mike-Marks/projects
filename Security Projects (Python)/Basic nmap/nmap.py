@@ -1,6 +1,6 @@
 import nmap
 
-# PS: you've got many other ways to scam a network using nmap, use the real nmap for more scanning options :)
+# PS: you've got many other ways to scan a network using nmap, use the real nmap for more scanning options :)
 def scan_target(target, ports='1-1024'):
     scanner = nmap.PortScanner()
     print(f"Scanning {target} for ports {ports}...\n")
